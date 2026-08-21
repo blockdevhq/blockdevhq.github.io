@@ -1,0 +1,17 @@
+{
+  "name": "BlockDev | Blockchain Protocol & Security Engineering",
+  "short_name": "BlockDev",
+  "description": "Independent software engineering for blockchain Layer 1 protocols, hardware-assisted security, and network security research.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07110f",
+  "theme_color": "#07110f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
